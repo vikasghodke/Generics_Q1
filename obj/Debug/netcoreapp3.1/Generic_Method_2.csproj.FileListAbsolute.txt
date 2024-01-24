@@ -1,0 +1,13 @@
+D:\C#\Generic_Method_2\Generic_Method_2\bin\Debug\netcoreapp3.1\Generic_Method_2.exe
+D:\C#\Generic_Method_2\Generic_Method_2\bin\Debug\netcoreapp3.1\Generic_Method_2.deps.json
+D:\C#\Generic_Method_2\Generic_Method_2\bin\Debug\netcoreapp3.1\Generic_Method_2.runtimeconfig.json
+D:\C#\Generic_Method_2\Generic_Method_2\bin\Debug\netcoreapp3.1\Generic_Method_2.runtimeconfig.dev.json
+D:\C#\Generic_Method_2\Generic_Method_2\bin\Debug\netcoreapp3.1\Generic_Method_2.dll
+D:\C#\Generic_Method_2\Generic_Method_2\bin\Debug\netcoreapp3.1\Generic_Method_2.pdb
+D:\C#\Generic_Method_2\Generic_Method_2\obj\Debug\netcoreapp3.1\Generic_Method_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Generic_Method_2\Generic_Method_2\obj\Debug\netcoreapp3.1\Generic_Method_2.AssemblyInfoInputs.cache
+D:\C#\Generic_Method_2\Generic_Method_2\obj\Debug\netcoreapp3.1\Generic_Method_2.AssemblyInfo.cs
+D:\C#\Generic_Method_2\Generic_Method_2\obj\Debug\netcoreapp3.1\Generic_Method_2.csproj.CoreCompileInputs.cache
+D:\C#\Generic_Method_2\Generic_Method_2\obj\Debug\netcoreapp3.1\Generic_Method_2.dll
+D:\C#\Generic_Method_2\Generic_Method_2\obj\Debug\netcoreapp3.1\Generic_Method_2.pdb
+D:\C#\Generic_Method_2\Generic_Method_2\obj\Debug\netcoreapp3.1\Generic_Method_2.genruntimeconfig.cache
